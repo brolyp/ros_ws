@@ -1,0 +1,36 @@
+running egg_info
+writing ../../../build/sim_model/sim_model.egg-info/PKG-INFO
+writing dependency_links to ../../../build/sim_model/sim_model.egg-info/dependency_links.txt
+writing entry points to ../../../build/sim_model/sim_model.egg-info/entry_points.txt
+writing requirements to ../../../build/sim_model/sim_model.egg-info/requires.txt
+writing top-level names to ../../../build/sim_model/sim_model.egg-info/top_level.txt
+reading manifest file '../../../build/sim_model/sim_model.egg-info/SOURCES.txt'
+writing manifest file '../../../build/sim_model/sim_model.egg-info/SOURCES.txt'
+running build
+running build_py
+copying sim_model/real2Sim_dynamics.py -> /home/brock/Documents/Research/ros_ws/build/sim_model/build/lib/sim_model
+running install
+/home/brock/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` directly.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+        ********************************************************************************
+
+!!
+  self.initialize_options()
+running install_lib
+copying /home/brock/Documents/Research/ros_ws/build/sim_model/build/lib/sim_model/real2Sim_dynamics.py -> /home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages/sim_model
+byte-compiling /home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages/sim_model/real2Sim_dynamics.py to real2Sim_dynamics.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages/sim_model-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../build/sim_model/sim_model.egg-info to /home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages/sim_model-0.0.0-py3.10.egg-info
+running install_scripts
+Installing real2Sim_dynamics script to /home/brock/Documents/Research/ros_ws/install/sim_model/lib/sim_model
+Installing real2Sim_kinematics script to /home/brock/Documents/Research/ros_ws/install/sim_model/lib/sim_model
+writing list of installed files to '/home/brock/Documents/Research/ros_ws/build/sim_model/install.log'

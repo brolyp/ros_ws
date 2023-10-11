@@ -1,0 +1,24 @@
+[0.032s] Invoking command in '/home/brock/Documents/Research/ros_ws/build/sim_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/brock/Documents/Research/ros_ws/install/sim_model:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /home/brock/.local/bin/cmake --build /home/brock/Documents/Research/ros_ws/build/sim_bringup -- -j16 -l16
+[0.309s] Invoked command in '/home/brock/Documents/Research/ros_ws/build/sim_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/brock/Documents/Research/ros_ws/install/sim_model:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /home/brock/.local/bin/cmake --build /home/brock/Documents/Research/ros_ws/build/sim_bringup -- -j16 -l16
+[0.440s] Invoking command in '/home/brock/Documents/Research/ros_ws/build/sim_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/brock/Documents/Research/ros_ws/install/sim_model:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /home/brock/.local/bin/cmake --install /home/brock/Documents/Research/ros_ws/build/sim_bringup
+[0.487s] -- Install configuration: ""
+[0.487s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/launch
+[0.487s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/launch/alpha_5_simulator.launch.py
+[0.487s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/rviz
+[0.487s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/rviz/rviz.rviz
+[0.487s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/ament_index/resource_index/package_run_dependencies/sim_bringup
+[0.487s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/ament_index/resource_index/parent_prefix_path/sim_bringup
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/environment/ament_prefix_path.sh
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/environment/ament_prefix_path.dsv
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/environment/path.sh
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/environment/path.dsv
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/local_setup.bash
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/local_setup.sh
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/local_setup.zsh
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/local_setup.dsv
+[0.488s] -- Installing: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/package.dsv
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/ament_index/resource_index/packages/sim_bringup
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/cmake/sim_bringupConfig.cmake
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/cmake/sim_bringupConfig-version.cmake
+[0.488s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_bringup/share/sim_bringup/package.xml
+[0.517s] Invoked command in '/home/brock/Documents/Research/ros_ws/build/sim_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/brock/Documents/Research/ros_ws/install/sim_model:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /home/brock/.local/bin/cmake --install /home/brock/Documents/Research/ros_ws/build/sim_bringup

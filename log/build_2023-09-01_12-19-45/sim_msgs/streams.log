@@ -1,0 +1,199 @@
+[0.289s] Invoking command in '/home/brock/Documents/Research/ros_ws/build/sim_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/brock/Documents/Research/ros_ws/install/sim_model:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /home/brock/.local/bin/cmake --build /home/brock/Documents/Research/ros_ws/build/sim_msgs -- -j16 -l16
+[0.400s] [  1%] Built target sim_msgs__cpp
+[0.403s] [ 12%] Built target sim_msgs__rosidl_generator_c
+[0.417s] [ 12%] Built target ament_cmake_python_copy_sim_msgs
+[0.440s] [ 23%] Built target sim_msgs__rosidl_typesupport_c
+[0.441s] [ 34%] Built target sim_msgs__rosidl_typesupport_introspection_c
+[0.441s] [ 45%] Built target sim_msgs__rosidl_typesupport_fastrtps_cpp
+[0.442s] [ 58%] Built target sim_msgs__rosidl_typesupport_introspection_cpp
+[0.443s] [ 67%] Built target sim_msgs__rosidl_typesupport_cpp
+[0.444s] [ 78%] Built target sim_msgs__rosidl_typesupport_fastrtps_c
+[0.470s] [ 78%] Built target sim_msgs
+[0.491s] [ 80%] Built target sim_msgs__py
+[0.516s] [ 89%] Built target sim_msgs__rosidl_generator_py
+[0.541s] [ 92%] Built target sim_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.541s] [ 96%] Built target sim_msgs__rosidl_typesupport_c__pyext
+[0.548s] [100%] Built target sim_msgs__rosidl_typesupport_introspection_c__pyext
+[0.654s] running egg_info
+[0.671s] writing sim_msgs.egg-info/PKG-INFO
+[0.671s] writing dependency_links to sim_msgs.egg-info/dependency_links.txt
+[0.671s] writing top-level names to sim_msgs.egg-info/top_level.txt
+[0.734s] reading manifest file 'sim_msgs.egg-info/SOURCES.txt'
+[0.734s] writing manifest file 'sim_msgs.egg-info/SOURCES.txt'
+[0.764s] [100%] Built target ament_cmake_python_build_sim_msgs_egg
+[0.782s] Invoked command in '/home/brock/Documents/Research/ros_ws/build/sim_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/brock/Documents/Research/ros_ws/install/sim_model:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /home/brock/.local/bin/cmake --build /home/brock/Documents/Research/ros_ws/build/sim_msgs -- -j16 -l16
+[0.936s] Invoking command in '/home/brock/Documents/Research/ros_ws/build/sim_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/brock/Documents/Research/ros_ws/install/sim_model:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /home/brock/.local/bin/cmake --install /home/brock/Documents/Research/ros_ws/build/sim_msgs
+[0.971s] -- Install configuration: ""
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/ament_index/resource_index/rosidl_interfaces/sim_msgs
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/filter.h
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/packet.h
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/joint_current.h
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/joint_torque.h
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail
+[0.972s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__type_support.h
+[0.973s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__struct.h
+[0.973s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__functions.c
+[0.973s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__functions.c
+[0.973s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__type_support.h
+[0.973s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__type_support.h
+[0.973s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__functions.h
+[0.973s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__struct.h
+[0.973s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__functions.h
+[0.973s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__functions.c
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__functions.h
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__struct.h
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__type_support.h
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__functions.h
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__functions.c
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__struct.h
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/environment/library_path.sh
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/environment/library_path.dsv
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/lib/libsim_msgs__rosidl_generator_c.so
+[0.974s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__rosidl_typesupport_fastrtps_c.h
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__rosidl_typesupport_fastrtps_c.h
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__rosidl_typesupport_fastrtps_c.h
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__rosidl_typesupport_fastrtps_c.h
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/lib/libsim_msgs__rosidl_typesupport_fastrtps_c.so
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/packet.hpp
+[0.975s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/filter.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/joint_current.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/joint_torque.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__traits.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__builder.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__traits.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__traits.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__builder.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__traits.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__struct.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__struct.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__builder.hpp
+[0.976s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__struct.hpp
+[0.977s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__builder.hpp
+[0.977s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__struct.hpp
+[0.977s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs
+[0.977s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg
+[0.977s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.977s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail
+[0.977s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__rosidl_typesupport_fastrtps_cpp.hpp
+[0.977s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__rosidl_typesupport_fastrtps_cpp.hpp
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/dds_fastrtps
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__rosidl_typesupport_fastrtps_cpp.hpp
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__rosidl_typesupport_fastrtps_cpp.hpp
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/lib/libsim_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__type_support.c
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__type_support.c
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__rosidl_typesupport_introspection_c.h
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__type_support.c
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__type_support.c
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__rosidl_typesupport_introspection_c.h
+[0.978s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__rosidl_typesupport_introspection_c.h
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__rosidl_typesupport_introspection_c.h
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/lib/libsim_msgs__rosidl_typesupport_introspection_c.so
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/lib/libsim_msgs__rosidl_typesupport_c.so
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__type_support.cpp
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__rosidl_typesupport_introspection_cpp.hpp
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/packet__type_support.cpp
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__rosidl_typesupport_introspection_cpp.hpp
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__rosidl_typesupport_introspection_cpp.hpp
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_current__type_support.cpp
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/joint_torque__rosidl_typesupport_introspection_cpp.hpp
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/include/sim_msgs/sim_msgs/msg/detail/filter__type_support.cpp
+[0.979s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/lib/libsim_msgs__rosidl_typesupport_introspection_cpp.so
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/lib/libsim_msgs__rosidl_typesupport_cpp.so
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/environment/pythonpath.sh
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/environment/pythonpath.dsv
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs-0.0.1-py3.10.egg-info
+[0.980s] -- Installing: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs-0.0.1-py3.10.egg-info/top_level.txt
+[0.980s] -- Installing: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs-0.0.1-py3.10.egg-info/PKG-INFO
+[0.980s] -- Installing: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs-0.0.1-py3.10.egg-info/dependency_links.txt
+[0.980s] -- Installing: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs-0.0.1-py3.10.egg-info/SOURCES.txt
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg/_filter.py
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg/_joint_torque_s.c
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg/__init__.py
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg/_packet_s.c
+[0.980s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg/_packet.py
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg/_joint_current_s.c
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg/_joint_current.py
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg/_joint_torque.py
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg/_filter_s.c
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/_sim_msgs_s.ep.rosidl_typesupport_c.c
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/libsim_msgs__rosidl_generator_py.so
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/sim_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/__init__.py
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/sim_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/sim_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/_sim_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.981s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/_sim_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.016s] Listing '/home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs'...
+[1.016s] Listing '/home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/msg'...
+[1.021s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/sim_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.022s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/sim_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.022s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/local/lib/python3.10/dist-packages/sim_msgs/sim_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.022s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/lib/libsim_msgs__rosidl_generator_py.so
+[1.023s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/msg/Packet.idl
+[1.023s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/msg/JointCurrent.idl
+[1.023s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/msg/JointTorque.idl
+[1.023s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/msg/Filter.idl
+[1.023s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/msg/Packet.msg
+[1.023s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/msg/JointCurrent.msg
+[1.024s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/msg/JointTorque.msg
+[1.024s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/msg/Filter.msg
+[1.024s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/ament_index/resource_index/package_run_dependencies/sim_msgs
+[1.024s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/ament_index/resource_index/parent_prefix_path/sim_msgs
+[1.024s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/environment/ament_prefix_path.sh
+[1.024s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/environment/ament_prefix_path.dsv
+[1.025s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/environment/path.sh
+[1.025s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/environment/path.dsv
+[1.025s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/local_setup.bash
+[1.025s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/local_setup.sh
+[1.025s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/local_setup.zsh
+[1.025s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/local_setup.dsv
+[1.026s] -- Installing: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/package.dsv
+[1.026s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/ament_index/resource_index/packages/sim_msgs
+[1.026s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/export_sim_msgs__rosidl_generator_cExport.cmake
+[1.026s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/export_sim_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.026s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/export_sim_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.026s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/export_sim_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.027s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/export_sim_msgs__rosidl_generator_cppExport.cmake
+[1.027s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/export_sim_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.027s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/export_sim_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.027s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.027s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.027s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgs__rosidl_typesupport_cExport.cmake
+[1.027s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.028s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.028s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.028s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgs__rosidl_typesupport_cppExport.cmake
+[1.028s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.028s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/export_sim_msgs__rosidl_generator_pyExport.cmake
+[1.028s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/export_sim_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.028s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/rosidl_cmake-extras.cmake
+[1.028s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.028s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.029s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.029s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.029s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.029s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.029s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgsConfig.cmake
+[1.029s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/cmake/sim_msgsConfig-version.cmake
+[1.029s] -- Up-to-date: /home/brock/Documents/Research/ros_ws/install/sim_msgs/share/sim_msgs/package.xml
+[1.037s] Invoked command in '/home/brock/Documents/Research/ros_ws/build/sim_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/brock/Documents/Research/ros_ws/install/sim_model:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /home/brock/.local/bin/cmake --install /home/brock/Documents/Research/ros_ws/build/sim_msgs

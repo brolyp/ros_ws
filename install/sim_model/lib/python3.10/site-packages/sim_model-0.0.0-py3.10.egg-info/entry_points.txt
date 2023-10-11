@@ -1,0 +1,3 @@
+[console_scripts]
+real2Sim_dynamics = sim_model.real2Sim_dynamics:main
+real2Sim_kinematics = sim_model.real2Sim_kinematics:main

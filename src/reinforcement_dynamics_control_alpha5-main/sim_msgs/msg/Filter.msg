@@ -1,0 +1,4 @@
+JointCurrent joint_currents
+geometry_msgs/PoseStamped endeffector_pose
+sensor_msgs/JointState joint_states
+tf2_msgs/TFMessage j_tf

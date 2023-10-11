@@ -1,0 +1,9 @@
+{
+  "package_name": "sim_msgs",
+  "non_idl_tuples": [
+    "/home/brock/Documents/Research/ros_ws/src/reinforcement_dynamics_control_alpha5-main/sim_msgs:msg/Packet.msg",
+    "/home/brock/Documents/Research/ros_ws/src/reinforcement_dynamics_control_alpha5-main/sim_msgs:msg/JointCurrent.msg",
+    "/home/brock/Documents/Research/ros_ws/src/reinforcement_dynamics_control_alpha5-main/sim_msgs:msg/JointTorque.msg",
+    "/home/brock/Documents/Research/ros_ws/src/reinforcement_dynamics_control_alpha5-main/sim_msgs:msg/Filter.msg"
+  ]
+}

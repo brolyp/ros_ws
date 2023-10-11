@@ -1,0 +1,38 @@
+[0.961s] Invoking command in '/home/brock/Documents/Research/ros_ws/src/reinforcement_dynamics_control_alpha5-main/sim_model': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/brock/Documents/Research/ros_ws/build/sim_model/prefix_override:/home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/sim_model build --build-base /home/brock/Documents/Research/ros_ws/build/sim_model/build install --record /home/brock/Documents/Research/ros_ws/build/sim_model/install.log --single-version-externally-managed
+[1.222s] running egg_info
+[1.239s] writing ../../../build/sim_model/sim_model.egg-info/PKG-INFO
+[1.240s] writing dependency_links to ../../../build/sim_model/sim_model.egg-info/dependency_links.txt
+[1.240s] writing entry points to ../../../build/sim_model/sim_model.egg-info/entry_points.txt
+[1.240s] writing requirements to ../../../build/sim_model/sim_model.egg-info/requires.txt
+[1.240s] writing top-level names to ../../../build/sim_model/sim_model.egg-info/top_level.txt
+[1.273s] reading manifest file '../../../build/sim_model/sim_model.egg-info/SOURCES.txt'
+[1.274s] writing manifest file '../../../build/sim_model/sim_model.egg-info/SOURCES.txt'
+[1.275s] running build
+[1.275s] running build_py
+[1.275s] copying sim_model/real2Sim_dynamics.py -> /home/brock/Documents/Research/ros_ws/build/sim_model/build/lib/sim_model
+[1.275s] running install
+[1.276s] /home/brock/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.276s] !!
+[1.276s] 
+[1.276s]         ********************************************************************************
+[1.276s]         Please avoid running ``setup.py`` directly.
+[1.276s]         Instead, use pypa/build, pypa/installer or other
+[1.276s]         standards-based tools.
+[1.276s] 
+[1.276s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.276s]         ********************************************************************************
+[1.277s] 
+[1.277s] !!
+[1.277s]   self.initialize_options()
+[1.283s] running install_lib
+[1.299s] copying /home/brock/Documents/Research/ros_ws/build/sim_model/build/lib/sim_model/real2Sim_dynamics.py -> /home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages/sim_model
+[1.300s] byte-compiling /home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages/sim_model/real2Sim_dynamics.py to real2Sim_dynamics.cpython-310.pyc
+[1.301s] running install_data
+[1.318s] running install_egg_info
+[1.335s] removing '/home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages/sim_model-0.0.0-py3.10.egg-info' (and everything under it)
+[1.336s] Copying ../../../build/sim_model/sim_model.egg-info to /home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages/sim_model-0.0.0-py3.10.egg-info
+[1.336s] running install_scripts
+[1.516s] Installing real2Sim_dynamics script to /home/brock/Documents/Research/ros_ws/install/sim_model/lib/sim_model
+[1.517s] Installing real2Sim_kinematics script to /home/brock/Documents/Research/ros_ws/install/sim_model/lib/sim_model
+[1.517s] writing list of installed files to '/home/brock/Documents/Research/ros_ws/build/sim_model/install.log'
+[1.549s] Invoked command in '/home/brock/Documents/Research/ros_ws/src/reinforcement_dynamics_control_alpha5-main/sim_model' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/brock/Documents/Research/ros_ws/build/sim_model/prefix_override:/home/brock/Documents/Research/ros_ws/install/sim_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/sim_model build --build-base /home/brock/Documents/Research/ros_ws/build/sim_model/build install --record /home/brock/Documents/Research/ros_ws/build/sim_model/install.log --single-version-externally-managed
