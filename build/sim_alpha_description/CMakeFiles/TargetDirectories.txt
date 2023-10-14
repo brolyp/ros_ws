@@ -1,9 +1,0 @@
-/home/brock/Documents/Research/ros_ws/build/sim_alpha_description/CMakeFiles/uninstall.dir
-/home/brock/Documents/Research/ros_ws/build/sim_alpha_description/CMakeFiles/sim_alpha_description_uninstall.dir
-/home/brock/Documents/Research/ros_ws/build/sim_alpha_description/CMakeFiles/test.dir
-/home/brock/Documents/Research/ros_ws/build/sim_alpha_description/CMakeFiles/edit_cache.dir
-/home/brock/Documents/Research/ros_ws/build/sim_alpha_description/CMakeFiles/rebuild_cache.dir
-/home/brock/Documents/Research/ros_ws/build/sim_alpha_description/CMakeFiles/list_install_components.dir
-/home/brock/Documents/Research/ros_ws/build/sim_alpha_description/CMakeFiles/install.dir
-/home/brock/Documents/Research/ros_ws/build/sim_alpha_description/CMakeFiles/install/local.dir
-/home/brock/Documents/Research/ros_ws/build/sim_alpha_description/CMakeFiles/install/strip.dir
